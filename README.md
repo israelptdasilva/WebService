@@ -28,7 +28,7 @@ JSONRequest<UserRoute, UserList>(session, route: .user(id: 1)).perform { result 
 
 ## The Web Service Controller Pattern
 
-I personally like to create a controller to layout web service requests because the requests can be reused, mocked if necessary, and it gives more flexibility if additional work needs to be done before forwarding the request response is returned to the request caller.
+I personally like to create a controller to layout web service requests because the requests themselves can be reused, mocked if necessary, and because I have more flexibility when additional work needs to be done prior to finally using the requested object.
 
 The following is how user related requests are put in a web service controller:
 
