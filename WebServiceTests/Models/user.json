@@ -1,0 +1,20 @@
+{
+    "id": 1,
+    "nameTitle": "mr",
+    "firstName": "Kaya",
+    "lastName": "Aksit",
+    "gender": "male",
+    "phone": "(845)-670-6570",
+    "cell": "(941)-533-1277",
+    "dob": "1961-07-15T08:24:21.000Z",
+    "image": "https://randomuser.me/api/portraits/men/53.jpg",
+    "email": "kaya.aksit@dummyapi.io",
+    "createdAt": "2019-01-17T17:53:21.297Z",
+    "location": {
+        "street": "1251 mevlana cd",
+        "city": "isparta",
+        "state": "Izmir",
+        "postcode": "41577",
+        "timezone": "-12:00"
+    }
+}
